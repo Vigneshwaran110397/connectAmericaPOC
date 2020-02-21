@@ -2,4 +2,4 @@
 
 Proof Of Concept
 
-I love coffee: :pizza , and :dancer;
+I love :coffee: :pizza, and :dancer:.
